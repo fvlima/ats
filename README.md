@@ -2,7 +2,7 @@
   
 Run index.html file and enjoy!
   
-This game was created with interest in study html5 (canvas), simple 2d physics collisions and game loop. This game has no commercial purpose
+This game was created in early of 2013 with interest in study html5 (canvas), simple 2d physics collisions and game loop. This game has no commercial purpose
   
 Created by Frederico Lima  
   
