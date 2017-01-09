@@ -2,10 +2,12 @@
   
 Run index.html file and enjoy!
   
-This game has no commercial purpose  
+This game has no commercial purpose
+  
 Created by Frederico Lima  
   
-Music by Black Drawing Chalks (My Favorite Way and Swallow)  
+Musics by Black Drawing Chalks (My Favorite Way and Swallow) 
+  
 Thanks for:  
 Matt Hackett - navigation commands (http://goo.gl/OL1E8)  
 Zouhair Serrar - explosion effect (http://goo.gl/b2L0o)  
