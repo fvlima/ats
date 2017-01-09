@@ -1,6 +1,6 @@
 # ATS (Above the sky) - A very simple html5 game
 
-This game have no commercial purpose \n
+This game have no commercial purpose \\n
 Created by frederico lima
 Music by black drawing chalks (My Favorite Way and Swallow)
 Thanks for:
