@@ -1,0 +1,128 @@
+html, body {
+    width:  100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #000;
+    text-align: center;
+}
+
+#loading img {
+    border: 0;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#game {
+    width: 100%;
+    height: 100%;
+}
+
+#earth {
+    top: 0;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+}
+
+#earth img {
+    border: 0;
+    float: right;
+}
+
+#title {
+    top: 200px;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    color: #fff;
+}
+
+#title img {    
+    border: 0;
+}
+
+#commands {
+    top: 300px;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+}
+
+#commands img {
+    border: 0;
+}
+
+#player {
+    top: 300px;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    display: none;
+}
+
+#player img {
+    border: 0;
+}
+
+#player input {
+    padding: 4px;
+    background-color: #000;
+    border: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    text-transform: uppercase;
+}
+
+#press {
+    top: 400px;
+    height: 40px;
+    width: 100%;
+    position: fixed;
+}
+
+#press img {
+    border: 0;
+}
+
+#score {
+    top: 460px;
+    height: 26%;
+    width: 100%;
+    position: fixed;
+    font-size: .6em;
+    color: #fff;
+    text-align: center;
+}
+
+#score img {
+    border: 0;
+}
+
+#score table {
+    margin: auto;
+    border: 0;
+}
+
+#score table tr td {
+    width: 100px;
+    height: 20px;
+    padding: 2px;
+    text-align: left;
+}
+
+#credits {
+    font-size: .6em;
+    color: #999;
+    height: 30px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
