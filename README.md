@@ -1,5 +1,7 @@
 # ATS (Above the sky) - A very simple html5 game
   
+Run index.html file and enjoy!
+  
 This game has no commercial purpose  
 Created by Frederico Lima  
   
