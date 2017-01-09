@@ -12,3 +12,11 @@ Zouhair Serrar - explosion effect (http://goo.gl/b2L0o)
 Korpio - boss image (http://goo.gl/Skocn)  
   
 Note: images of the ship, enemies and asteroids, were caught on the internet and credits are of their OWNERS. they were used only for experimentation and study.
+  
+Screenshots
+  
+![alt tag](https://github.com/fvlima/ats/blob/master/img/screenshots/screenshot_1.jpeg)
+  
+![alt tag](https://github.com/fvlima/ats/blob/master/img/screenshots/screenshot_2.jpeg)
+  
+![alt tag](https://github.com/fvlima/ats/blob/master/img/screenshots/screenshot_3.jpeg)
